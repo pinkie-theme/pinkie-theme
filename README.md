@@ -1,7 +1,7 @@
 <!-- SEO Metadata & Social Graph -->
 <meta name="description" content="Pinkie Theme — An elegant, soothing pastel-pink and soft-white color palette & design tokens crafted for code editors, terminals, note-taking apps, and pink lovers.">
 <meta name="keywords" content="pinkie, pinkie theme, pastel pink theme, cozy theme, aesthetic color scheme, vscode pink theme, obsidian pink theme, neovim colorscheme, terminal theme, design tokens, nord-inspired, catppuccin, rose pine, developer aesthetics">
-<meta name="author" content="JustDuyen (cmduyeen)">
+<meta name="author" content="cmduyeen">
 <meta property="og:title" content="Pinkie Theme — Soothing Pastel Pink Color Palette">
 <meta property="og:description" content="An elegant, soft pastel-pink and cozy color palette crafted for code editors, terminals, and pink lovers.">
 <meta property="og:image" content="https://raw.githubusercontent.com/pinkie-theme/pinkie-theme/main/assets/logo.svg">
@@ -165,8 +165,8 @@ Design tokens are available in [src/pinkie.json](src/pinkie.json) and [src/pinki
 
 ### License
 
-- [MIT License](LICENSE) ── Free and open-source.
-- Copyright © 2026 JustDuyen ── Crafted with care for pink lovers.
+- [MIT License](LICENSE) — Free and open-source.
+- Copyright © 2026 [cmduyeen](https://github.com/cmduyeen) — Pinkie Suite.
 
 ---
 
