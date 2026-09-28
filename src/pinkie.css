@@ -1,0 +1,41 @@
+/**
+ * Pinkie Theme - Official CSS Custom Properties
+ * Extracted from Pinkie-for-Obsidian (theme.css)
+ */
+
+:root {
+  /* -------------------------------------------------------------
+   * SURFACES & MONOCHROMES (White & Soft Pink Base)
+   * ----------------------------------------------------------- */
+  --pinkie-canvas: #fffdfd;
+  --pinkie-surface-1: #fff6fa;
+  --pinkie-surface-2: #ffeff6;
+  --pinkie-border: #f1d3e2;
+  --pinkie-border-strong: #e8bdd6;
+  --pinkie-text: #453b43;
+  --pinkie-text-muted: #786c76;
+  --pinkie-text-faint: #a497a1;
+  --pinkie-code-bg: #fff9fd;
+
+  /* -------------------------------------------------------------
+   * ACCENT COLORS (Pink & Syntax Accents)
+   * ----------------------------------------------------------- */
+  --pinkie-accent: #d44b8b;
+  --pinkie-accent-hover: #c64081;
+  --pinkie-heading: #c4377a;
+  --pinkie-keyword: #6a5acd;
+  --pinkie-string: #c71d5f;
+  --pinkie-function: #b21f5f;
+  --pinkie-number: #a84079;
+  --pinkie-mint: #2f9e88;
+  --pinkie-coral: #ff7a59;
+  --pinkie-sky: #3b82f6;
+
+  /* -------------------------------------------------------------
+   * SEMANTIC ALIASES
+   * ----------------------------------------------------------- */
+  --pinkie-bg-main: var(--pinkie-canvas);
+  --pinkie-bg-surface: var(--pinkie-surface-1);
+  --pinkie-fg-main: var(--pinkie-text);
+  --pinkie-fg-muted: var(--pinkie-text-muted);
+}

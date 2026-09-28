@@ -1,0 +1,105 @@
+{
+  "$schema": "https://raw.githubusercontent.com/tokens-studio/schema/main/tokens.json",
+  "name": "Pinkie",
+  "version": "1.0.0",
+  "description": "Gentle pastel-pink and soft-white theme palette.",
+  "surfaces": {
+    "canvas": {
+      "value": "#fffdfd",
+      "type": "color",
+      "description": "Main background / Pure milk white"
+    },
+    "surface1": {
+      "value": "#fff6fa",
+      "type": "color",
+      "description": "Secondary surface / Soft blush"
+    },
+    "surface2": {
+      "value": "#ffeff6",
+      "type": "color",
+      "description": "Elevated surface / Rose mist"
+    },
+    "border": {
+      "value": "#f1d3e2",
+      "type": "color",
+      "description": "Delicate border outline"
+    },
+    "borderStrong": {
+      "value": "#e8bdd6",
+      "type": "color",
+      "description": "Prominent border outline"
+    },
+    "text": {
+      "value": "#453b43",
+      "type": "color",
+      "description": "Primary text / Charcoal plum"
+    },
+    "textMuted": {
+      "value": "#786c76",
+      "type": "color",
+      "description": "Muted text / Soft gray"
+    },
+    "textFaint": {
+      "value": "#a497a1",
+      "type": "color",
+      "description": "Faint text & placeholders"
+    },
+    "codeBackground": {
+      "value": "#fff9fd",
+      "type": "color",
+      "description": "Codeblock background"
+    }
+  },
+  "accents": {
+    "primary": {
+      "value": "#d44b8b",
+      "type": "color",
+      "description": "Primary pink accent / Brand & interactive"
+    },
+    "heading": {
+      "value": "#c4377a",
+      "type": "color",
+      "description": "Deep rose / Headings & titles"
+    },
+    "hover": {
+      "value": "#c64081",
+      "type": "color",
+      "description": "Interactive hover state"
+    },
+    "keyword": {
+      "value": "#6a5acd",
+      "type": "color",
+      "description": "Slate blue lavender / Keywords"
+    },
+    "string": {
+      "value": "#c71d5f",
+      "type": "color",
+      "description": "Berry crimson / Strings"
+    },
+    "function": {
+      "value": "#b21f5f",
+      "type": "color",
+      "description": "Magenta rose / Functions & methods"
+    },
+    "number": {
+      "value": "#a84079",
+      "type": "color",
+      "description": "Plum pink / Numbers"
+    },
+    "mint": {
+      "value": "#2f9e88",
+      "type": "color",
+      "description": "Mint jade / Success & tags"
+    },
+    "coral": {
+      "value": "#ff7a59",
+      "type": "color",
+      "description": "Coral peach / Warning & tags"
+    },
+    "sky": {
+      "value": "#3b82f6",
+      "type": "color",
+      "description": "Sky blue / Info & links"
+    }
+  }
+}
