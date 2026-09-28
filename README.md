@@ -178,5 +178,5 @@ Design tokens are available in [src/pinkie.json](src/pinkie.json) and [src/pinki
 > *Take gentle care of yourself, and always remember to **love yourself**.* 🌸
 
 <p align="center">
-  <img src="assets/signature.svg" alt="cmduyeen" width="400" />
+  <img src="assets/signature.svg" alt="cmduyeen" width="200" />
 </p>
