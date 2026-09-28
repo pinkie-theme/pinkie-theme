@@ -1,7 +1,16 @@
-<!-- SEO Metadata -->
-<meta name="description" content="Pinkie Theme — A gentle pastel-pink and soft-white theme crafted for pink lovers.">
-<meta name="keywords" content="Pinkie Theme, pastel pink, soft white, cozy theme, color palette, vscode, obsidian, developer">
-<meta name="author" content="cmduyeen">
+<!-- SEO Metadata & Social Graph -->
+<meta name="description" content="Pinkie Theme — An elegant, soothing pastel-pink and soft-white color palette & design tokens crafted for code editors, terminals, note-taking apps, and pink lovers.">
+<meta name="keywords" content="pinkie, pinkie theme, pastel pink theme, cozy theme, aesthetic color scheme, vscode pink theme, obsidian pink theme, neovim colorscheme, terminal theme, design tokens, nord-inspired, catppuccin, rose pine, developer aesthetics">
+<meta name="author" content="JustDuyen (cmduyeen)">
+<meta property="og:title" content="Pinkie Theme — Soothing Pastel Pink Color Palette">
+<meta property="og:description" content="An elegant, soft pastel-pink and cozy color palette crafted for code editors, terminals, and pink lovers.">
+<meta property="og:image" content="https://raw.githubusercontent.com/pinkie-theme/pinkie-theme/main/assets/logo.svg">
+<meta property="og:url" content="https://github.com/pinkie-theme/pinkie-theme">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Pinkie Theme — Soothing Pastel Pink Color Palette">
+<meta name="twitter:description" content="An elegant, soft pastel-pink and cozy color palette crafted for code editors, terminals, and pink lovers.">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/pinkie-theme/pinkie-theme/main/assets/logo.svg">
 
 <p align="center">
   <img src="assets/logo.svg" alt="Pinkie Theme" width="130" />
