@@ -29,6 +29,17 @@
 
 ---
 
+### Pinkie Products
+
+- [Pinkie for Chrome](https://github.com/pinkie-theme/pinkie-chrome)
+- [Pinkie for Obsidian](https://github.com/pinkie-theme/pinkie-obsidian) — includes `Pinkie.css`
+- [Pinkie for VS Code](https://github.com/pinkie-theme/pinkie-vscode)
+- [Pinkie Icons for VS Code](https://github.com/pinkie-theme/pinkie-vscode-icons)
+- [Pinkie for SumatraPDF](https://github.com/pinkie-theme/pinkie-sumatra-pdf)
+- [Pinkie Smart TOC](https://github.com/pinkie-theme/pinkie-smart-toc)
+
+---
+
 ### Philosophy
 
 **Pinkie** pairs soothing pastel pinks with gentle soft whites—crafted for pink lovers seeking a calm, aesthetic workspace.
