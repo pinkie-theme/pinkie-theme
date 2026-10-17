@@ -161,13 +161,6 @@ Design tokens are available in [src/pinkie.json](src/pinkie.json) and [src/pinki
 
 ---
 
-### License
-
-- [MIT License](LICENSE) — Free and open-source.
-- Copyright © 2026 [cmduyeen](https://github.com/cmduyeen) — Pinkie Suite.
-
----
-
 ### The Story Behind
 
 > Following a period of illness and mental health struggles, I discovered how much gentle pink tones helped soothe my mind and uplift my spirits. Realizing how few themes cater thoughtfully to women and pink lovers in developer spaces, I created **Pinkie** with kindness and care.
@@ -175,6 +168,11 @@ Design tokens are available in [src/pinkie.json](src/pinkie.json) and [src/pinki
 > My hope is simply to bring warmth and a little daily joy to your workspace.  
 > *Take gentle care of yourself, and always remember to **love yourself**.* 🌸
 
-<p align="center">
-  <img src="assets/signature.svg" alt="cmduyeen" width="200" />
-</p>
+---
+
+### License
+
+- [MIT License](LICENSE) — Free and open-source.
+- Copyright © 2026 [cmduyeen](https://github.com/cmduyeen) — Pinkie Suite.
+
+---
