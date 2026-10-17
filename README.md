@@ -27,19 +27,6 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-FFF0F5?style=flat&logoColor=D4698B" alt="Version" />
 </p>
 
----
-
-### Pinkie Products
-
-- [Pinkie for Chrome](https://github.com/pinkie-theme/pinkie-chrome)
-- [Pinkie for Obsidian](https://github.com/pinkie-theme/pinkie-obsidian) — includes `Pinkie.css`
-- [Pinkie for VS Code](https://github.com/pinkie-theme/pinkie-vscode)
-- [Pinkie Icons for VS Code](https://github.com/pinkie-theme/pinkie-vscode-icons)
-- [Pinkie for SumatraPDF](https://github.com/pinkie-theme/pinkie-sumatra-pdf)
-- [Pinkie Smart TOC](https://github.com/pinkie-theme/pinkie-smart-toc)
-
----
-
 ### Philosophy
 
 **Pinkie** pairs soothing pastel pinks with gentle soft whites—crafted for pink lovers seeking a calm, aesthetic workspace.
@@ -82,7 +69,7 @@ Design tokens are available in [src/pinkie.json](src/pinkie.json) and [src/pinki
 <summary><b>Code Editors &amp; Development</b></summary>
 <br>
 
-<a href="https://github.com/cmduyeen/pinkie-vscode"><img src="https://img.shields.io/badge/VS_Code-FFF0F5?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBmaWxsPSIjZDQ2OThiIiBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N0w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B" alt="VS Code" /></a> ── In Progress
+<a href="https://github.com/pinkie-theme/pinkie-vscode"><img src="https://img.shields.io/badge/VS_Code-FFF0F5?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BVmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBmaWxsPSIjZDQ2OThiIiBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N0w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B" alt="VS Code" /></a> ── In Progress
 
 <img src="https://img.shields.io/badge/Neovim-FFF0F5?style=flat&logo=neovim&logoColor=D4698B" alt="Neovim" /> ── Planned
 
@@ -98,7 +85,7 @@ Design tokens are available in [src/pinkie.json](src/pinkie.json) and [src/pinki
 <summary><b>Note-Taking &amp; Knowledge</b></summary>
 <br>
 
-<a href="https://github.com/cmduyeen/Pinkie-for-Obsidian"><img src="https://img.shields.io/badge/Obsidian-FFF0F5?style=flat&logo=obsidian&logoColor=D4698B" alt="Obsidian" /></a> ── Active
+<a href="https://github.com/pinkie-theme/pinkie-obsidian"><img src="https://img.shields.io/badge/Obsidian-FFF0F5?style=flat&logo=obsidian&logoColor=D4698B" alt="Obsidian" /></a> ── Active
 
 <img src="https://img.shields.io/badge/Logseq-FFF0F5?style=flat&logo=logseq&logoColor=D4698B" alt="Logseq" /> ── Planned
 
